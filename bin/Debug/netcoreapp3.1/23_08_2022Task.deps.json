@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "23_08_2022Task/1.0.0": {
+        "runtime": {
+          "23_08_2022Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23_08_2022Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
